@@ -9,7 +9,7 @@ Copiar código
 
 Este projeto analisa os dados do Titanic para entender quais fatores influenciaram a sobrevivência dos passageiros. Utilizando técnicas de análise de dados e machine learning, o objetivo é prever a taxa de sobrevivência com base em características como classe, sexo, idade, e se o passageiro tinha uma cabine.
 
-## 🌟 Relevância e Aplicações Potenciais
+##  Relevância e Aplicações Potenciais
 
 Embora este projeto analise um evento histórico, as metodologias e os conhecimentos adquiridos são diretamente aplicáveis em cenários modernos de análise de dados e tomada de decisão baseada em Machine Learning.
 
